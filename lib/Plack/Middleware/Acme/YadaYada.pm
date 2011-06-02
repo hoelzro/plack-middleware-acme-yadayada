@@ -56,6 +56,6 @@ returns "501 Not Implemented" if it encounters any.
 
 =head1 SEE ALSO
 
-L<perlop/Yada_Yada_Operator>
+L<perlop/Yada_Yada_Operator>, L<Plack::Middleware>
 
 =cut
