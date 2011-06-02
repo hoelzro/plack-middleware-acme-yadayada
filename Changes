@@ -1,6 +1,4 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
-
-0.01 June 02 2011
-    Initial release.
+     Initial release.
